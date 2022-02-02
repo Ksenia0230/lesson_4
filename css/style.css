@@ -80,3 +80,11 @@ h2 {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
+
+a {
+	font-size: 20px;
+	font-weight: 700;
+	color: tomato;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
