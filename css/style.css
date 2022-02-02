@@ -1,0 +1,82 @@
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Zen+Kurenaido:regular&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Pacifico:regular&display=swap);
+@font-face {
+	font-family: "Gunny Rewritten", sans-serif;
+	src: url(../fonts/GunnyRewritten.woff2) format("woff2"), url(../fonts/GunnyRewritten.woff) format("woof");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+h1 {
+	color: darkcyan;
+	font-size: 40px;
+	font-family: "Courier New", Courier, fantasy;
+	text-align: center;
+	font-weight: 900;
+	text-shadow: 10px 10px 20px rgb(69, 100, 90);
+}
+.text {
+	font-family: "Zen Kurenaido", sans-serif;
+	font-size: 18px;
+	font-style: oblique;
+	font-weight: 500;
+	color: cadetblue;
+	text-align: center;
+}
+h2 {
+	color: darksalmon;
+	font-size: 30px;
+	text-align: center;
+	font-weight: 700;
+	text-shadow: 10px 10px 20px rosybrown;
+	font-style: italic;
+}
+.paragraph {
+	color: grey;
+	font-family: "Pacifico";
+	text-transform: uppercase;
+	text-decoration: underline;
+	word-spacing: 5px;
+	line-height: 40px;
+	font-weight: 600;
+}
+.article {
+	font-weight: 500;
+	font-family: "Cambria", serif;
+	font-size: 20px;
+	font-style: oblique;
+	color: indigo;
+	text-align: justify;
+	letter-spacing: 5px;
+}
+
+.text2 {
+	font-family: "Lucida Sans", Arial, sans-serif;
+	font-weight: 300px;
+	font-size: 18px;
+	color: goldenrod;
+	text-decoration: line-through;
+	text-transform: lowercase;
+	word-spacing: 5px;
+	text-indent: 10px;
+}
+.paragraph2 {
+	font-family: "Impact", sans-serif;
+	font-size: 17px;
+	font-weight: 100;
+	color: dimgray;
+	text-align: right;
+	text-decoration: overline;
+	text-transform: capitalize;
+	line-height: 25px;
+}
+.article2 {
+	font-family: "Gunny Rewritten", sans-serif;
+	font-size: 19px;
+	color: slateblue;
+	font-weight: 200;
+	text-shadow: 10px 10px 30px rosybrown;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}

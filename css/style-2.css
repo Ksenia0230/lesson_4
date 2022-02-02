@@ -1,0 +1,27 @@
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+body {
+	font-family: "Lato";
+	color: #424551;
+}
+h1 {
+	color: #1e212c;
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 1.3;
+}
+.text {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	color: #1e212c;
+}
+p {
+	line-height: 1.6;
+}
+.paragraph {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+}
